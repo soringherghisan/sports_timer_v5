@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sports_timer_v5/static/css/main.efdb5423.chunk.css",
-    "main.js": "/sports_timer_v5/static/js/main.a1c2e27f.chunk.js",
-    "main.js.map": "/sports_timer_v5/static/js/main.a1c2e27f.chunk.js.map",
+    "main.css": "/sports_timer_v5/static/css/main.0ef151cf.chunk.css",
+    "main.js": "/sports_timer_v5/static/js/main.b453d41f.chunk.js",
+    "main.js.map": "/sports_timer_v5/static/js/main.b453d41f.chunk.js.map",
     "runtime-main.js": "/sports_timer_v5/static/js/runtime-main.0c041099.js",
     "runtime-main.js.map": "/sports_timer_v5/static/js/runtime-main.0c041099.js.map",
     "static/js/2.acefb4d8.chunk.js": "/sports_timer_v5/static/js/2.acefb4d8.chunk.js",
     "static/js/2.acefb4d8.chunk.js.map": "/sports_timer_v5/static/js/2.acefb4d8.chunk.js.map",
     "index.html": "/sports_timer_v5/index.html",
-    "precache-manifest.de4091686274f898a1ca705aaf521a04.js": "/sports_timer_v5/precache-manifest.de4091686274f898a1ca705aaf521a04.js",
+    "precache-manifest.8bd4a2c330971f9c34221ca276aee3cb.js": "/sports_timer_v5/precache-manifest.8bd4a2c330971f9c34221ca276aee3cb.js",
     "service-worker.js": "/sports_timer_v5/service-worker.js",
-    "static/css/main.efdb5423.chunk.css.map": "/sports_timer_v5/static/css/main.efdb5423.chunk.css.map",
+    "static/css/main.0ef151cf.chunk.css.map": "/sports_timer_v5/static/css/main.0ef151cf.chunk.css.map",
     "static/js/2.acefb4d8.chunk.js.LICENSE.txt": "/sports_timer_v5/static/js/2.acefb4d8.chunk.js.LICENSE.txt",
     "static/media/countdownBegins.wav": "/sports_timer_v5/static/media/countdownBegins.7b196d77.wav",
     "static/media/finish.wav": "/sports_timer_v5/static/media/finish.d02396a3.wav",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.0c041099.js",
     "static/js/2.acefb4d8.chunk.js",
-    "static/css/main.efdb5423.chunk.css",
-    "static/js/main.a1c2e27f.chunk.js"
+    "static/css/main.0ef151cf.chunk.css",
+    "static/js/main.b453d41f.chunk.js"
   ]
 }
