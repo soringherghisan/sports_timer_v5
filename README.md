@@ -11,3 +11,5 @@ Features:
   - 3 second audio countdown before individual exercise ends 
   - exercise names are spoken via text-to-speech
   - can save a workout to a .json file or load a workout from a .json file  
+  
+The app is hosted by github pages at https://soringherghisan.github.io/sports_timer_v5/
